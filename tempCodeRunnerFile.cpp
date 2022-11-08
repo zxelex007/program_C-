@@ -1,0 +1,1 @@
+cout<<"The integer value of a is :\n"<<int(a);
